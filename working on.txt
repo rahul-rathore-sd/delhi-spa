@@ -1,0 +1,25 @@
+
+Working on a spa website.
+
+all pages are connected.
+content done : home/index, 
+
+removing sections
+
+
+COLOR i am using for new design: #D76C82
+not useing because it is not bright color.
+
+================================
+
+
+
+pink color: #CC2B52
+=====
+used COLOR: #ec5598,
+purple: #AE1AF7
+purple: #9804e1
+=====================
+skin-7.css: 
+did changes on: 
+line: 125
